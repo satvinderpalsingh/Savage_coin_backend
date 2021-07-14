@@ -9,7 +9,7 @@ Simple blockchain based cryptocurrency name Savage Coin
 
 # Installation
 npm i savage_coin
-//execute above command to insatll blockchain as npm module and use it with project
+//execute above command to install as npm module and use it with frontend to visualize the blockchain
 
 # Generate Key Pairs
 To make transactions on this blockchain we need a keypair. The public key becomes our wallet address, the private key is used to sign transactions and also public key is used to verify the transactions
