@@ -6,7 +6,8 @@ Simple blockchain based cryptocurrency name Savage Coin
 -Generate wallet (private/public key)<br/>
 -Sign transactions<br/>
 -Generate Key Pairs<br/>
-#Installation
+
+# Installation
 npm i savage_coin
 //execute above command to insatll blockchain as npm module and use it with project
 
