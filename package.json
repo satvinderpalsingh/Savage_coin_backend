@@ -1,0 +1,10 @@
+{
+  "name": "savage_coin",
+  "version": "1.0.3",
+  "description": "simple cyrtocurrency developed using blockchain",
+  "main": "src/blockchain.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
+  }
+}
